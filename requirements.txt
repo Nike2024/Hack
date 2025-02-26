@@ -1,0 +1,10 @@
+random
+time
+json
+string
+nltk
+tkinter
+random
+requests
+json
+colorama
